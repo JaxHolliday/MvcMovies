@@ -6,7 +6,7 @@ using MVC_Movie.Data;
 using MVC_Movie.Models;
 using System;
 
-namespace MvcMovie
+namespace MVC_Movie
 {
     public class Program
     {
