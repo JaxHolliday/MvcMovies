@@ -20,7 +20,6 @@ namespace MVC_Movie.Controllers
         }
 
         // GET: Movies
-        // GET: Movies
         public async Task<IActionResult> Index(string movieGenre, string searchString)
         {
             // Use LINQ to get list of genres.
